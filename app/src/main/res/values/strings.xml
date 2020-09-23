@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Text To Speech Converter</string>
+    <string name="text_to_speech_converter_hint">Enter text to convert it into audio : </string>
+    <string name="text_to_speech_converter_button_text">Say It!</string>
+    <string name="text_to_speech_converter_stop_button">Stop!</string>
+    <string name="text_to_speech_converter_header_image_description">Text To Speech Converter</string>
+    <string name="seek_bar_pitch_text">Pitch</string>
+    <string name="seek_bar_speed_text">Speed</string>
+</resources>
