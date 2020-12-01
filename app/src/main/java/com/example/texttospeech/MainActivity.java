@@ -22,6 +22,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        Log.d("Project : ","Text To Speech Converter");
         textToConvertIntoSpeech = findViewById(R.id.text_to_convert_into_speech);
         Button textToSpeechConverter = findViewById(R.id.text_to_speech_converter);
         Button stopButton = findViewById(R.id.stop_button);
